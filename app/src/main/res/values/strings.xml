@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewS</string>
+    <string name="hide_pwd" />
+    <string name="show_pwd" />
+</resources>
